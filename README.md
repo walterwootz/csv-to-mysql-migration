@@ -8,5 +8,5 @@ This service perform a transformation from a raw CSV file to a .sql script file 
 
 ## Getting started
 
-- Edit config.json based on your needs
+- Edit [config.json](config.json) based on your needs
 - run `node index.js`
