@@ -1,0 +1,9 @@
+{
+    "inputFile": "input.csv",
+    "outputFile": "output.sql",
+    "tableName": "table_name",
+    "delimiter": ";",
+    "columns": [
+        "col1", "col2", "col3", "col4"
+    ]
+}
